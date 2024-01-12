@@ -1,18 +1,20 @@
 ### Hi there 👋, Hello World!
-#### I'm <a href="mailto:elcorreoquequieres@correo.com?Subject=Te%20contacto%desde%20GitHub">Anderson G. Soto</a>
+
+#### I'm <a href="mailto:elcorreoquequieres@correo.com?Subject=Te%20contacto%desde%20GitHub">Anderson G. Soto</a> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andergsx)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/600098019861594132) 
+
 I am a software developer and I love the world of technologies.  
 I am passionate about creating innovative and efficient technological solutions. My focus is on implementing modern technologies and designing interfaces that provide an exceptional user experience.
 
-- 🔭 I’m currently working on the development of web applications, using LAMP 👨‍💻  
-- 😄 Pronouns: Ander and Andy  
-- ⚡ Fun fact: Video Games AAA 
+🔭 I’m currently working on the development of web applications, using LAMP 👨‍💻  
+😄 Pronouns: Ander and Andy  
+⚡ Fun fact: Video Games AAA 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andergsx&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)‎ ‎ ‎ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andergsx&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=andergsx&theme=dark&hide_border=true&border_radius=0&locale=es&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andergsx) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/600098019861594132) 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
