@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello World!
 
-#### I'm <a href="mailto:andergs.dev@gmail.com?Subject=Te%20contacto%desde%20GitHub">Anderson G. Soto</a> 
+#### I'm <a href="mailto:andergs.dev@gmail.com?subject=Te%20contacto%desde%20GitHub">Anderson G. Soto</a> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andergsx)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/600098019861594132) 
 
 I am a software developer and I love the world of technologies.  
